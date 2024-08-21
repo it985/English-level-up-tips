@@ -1,25 +1,32 @@
+谨以此献给我曾今的挚爱 `W.`
+
+> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
+
 # 项目介绍
 
 An advanced guide to learn English which might benefit you a lot.
 
-离谱的英语学习指南。
+[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
 
 ## 背景
 
-大家好，我是离谱，欢迎来到离谱的英语学习指南，让我们像老朋友一样，随便聊聊。
+你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
 
-时间回到 2017 年 7 月初，备考托福的女神问了我一个问题：如何高效学习英语？
+当你的目光与这些文字相遇，我衷心希望，这不仅仅是一次攻克英语的艰苦征程，更是一场开启智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，弹奏出语言学习的天籁妙音。
 
-在我思考如何回答这个问题时，想到了在大四上一学期我考过 26 门课的经验（其中重修 19 门，当前学期 7 门），觉得我应该能勉强提供一些高效学习的小技巧。
+时间回到 2017 年 7 月初，备考托福的女神`W.`问了我一个问题：**如何高效学习英语？**
 
-与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些不可取之处。
+在我思考如何回答这个问题时，回想起我在大四一学期一次性考过 26 门课的经验（其中重修 19 门，当前学期 7 门），再加上本人`英语` 和 `语文` 两门学科曾**侥幸**在高考时摘得省第一（江苏卷），或许我勉强有资格提供一些`高效学习`的`小技巧`，权当抛砖引玉。
 
-于是我写了一篇简单的文章零散地介绍了下我学习英语的小技巧，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
+与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些`不可取之处`。
 
-在此之前，我并不知道原来有那么多的同学在学习英语的道路上是一路走到黑的。
+于是我写了一篇简单的文章零散地介绍了下我学习英语的心得体会，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
+
+在此之前，我并不知道原来有那么多的同学在学习英语的这件事上磕磕绊绊。
+
 他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
 
-我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意义却是一致的)：
+我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意思却是相似的)：
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 
@@ -33,7 +40,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ![CERF@2x.png](assets/CEFR@2x.png)
 
-> 本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
+> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
 ## 特色
 
@@ -60,26 +67,25 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 - 感谢所有关心以及为这份指南做出贡献的人 ❤️
 
-## 关于赞赏
-
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
-
-2017 年 6 月 8 日我和一见钟情的女神走到一起，**既然已经得到此生所爱，便不再需要其他奖赏**。
-
-![](assets/l1.jpeg)
-![](assets/l3.jpeg)
-
-和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》
-
 ## 番外篇
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的爱情往事](https://github.com/byoungd/English-level-up-tips/tree/master/part-3)
+聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
 
-勇敢地表达自己，可以提高自己的沟通能力 [我们为何害怕与陌生人交流](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+[![](/assets/love.jpg)](https://github.com/byoungd/how-to-find-love)
+
+## 离谱的抖音
+
+离谱在尝试着做抖音，目前发布了大量关于夜场美女的视频(为了快速涨粉，请见谅)和一些废话。
+
+[如果你对我感兴趣，可以关注我的抖音号](https://www.douyin.com/user/self?modal_id=7390075436048469275): `72581209403`
+
+或使用抖音扫码关注我
+
+[![](/assets/dyqr.jpg)](https://www.douyin.com/user/self?modal_id=7390075436048469275)
 
 ## 在线阅读
 
-- 知乎 [英语进阶指南](https://www.zhihu.com/column/c_1453146248568631296)
+- 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
 - GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
@@ -89,13 +95,15 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ## 协议/License
 
-本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a> 进行许可。
+本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
 
-## 项目状态
-
-![Alt](https://repobeats.axiom.co/api/embed/e9f25b6200dc09f2d6d831bca87c5035869980fd.svg "Repobeats analytics image")
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
 
 ## 特别声明
+
+有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+
+**命运已经给了离谱诸多额外的馈赠，便不再需要其他奖赏**。
 
 统一声明：**本指南不接受也不需要金钱上的赞助**。
 
@@ -104,17 +112,3 @@ The only way to do great work is to love what you do. If you haven't found it ye
     学习，难道不是人生最棒的乐趣么？
 
 > Cheers and Enjoy :)
-
-## 酷圈 ku0.com
-
-时光飞逝，距离创建本指南已经有 6 年多的时间过去了，这期间，发生了很多事，我收获了获爱情与家庭，同时也失去了财富，详情请见[花 2000 万开一家软件公司并倒闭了，是一种怎样的体验](https://zhuanlan.zhihu.com/p/653380203)。
-
-当前大环境下很多人将面临转行，网络上充斥着铺天盖地的学习资料，鱼龙混杂，需要做减法，所以我创建了酷圈这个产品。酷圈 ku0.com 是一个社区，采用 **学习 + 娱乐** 的模式。在这里你可以免费查阅下载最优质的学习资料；也可以在这里闲逛，劳逸结合，与社区的好友分享灵感与创意；或者单纯的在这里装 B 找存在感。
-
-酷圈短期会是你学习的利器，长期的愿景是做你的成长指南。
-
-[`酷圈 ku0.com`](https://ku0.com)。
-
-**非常欢迎你们成为早期用户，与我共同创造这个有爱的社区**。
-
-![酷圈 ku0.com](/assets/ku0.com.png)
